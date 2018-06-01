@@ -4,8 +4,8 @@ Autor: Roman Kalivoda
 
 požadavky:  Python 3.x
             xdf.py
-            numpy
-            matplotlib
+            numpy (možno stáhnout přes pip)
+            matplotlib (možno stáhnout přes pip)
             
 """
 import matplotlib.pyplot as plt
